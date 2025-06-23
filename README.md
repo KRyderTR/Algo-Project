@@ -1,4 +1,4 @@
-# 15 Puzzle Solver
+# 🧩 Puzzle 15/24 Solver
 
 A Java-based solver for the classic **15 Puzzle** and extended **24 Puzzle**, implementing and comparing three pathfinding algorithms: **Breadth-First Search (BFS)**, **Dijkstra’s Algorithm**, and **A\* (A-star) Search**.
 
